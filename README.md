@@ -8,7 +8,7 @@
 
 The Cairo documentation consists of two parts: "Hello Cairo" and "How Cairo Works?".
 Both parts can be found in https://cairo-lang.org/docs/.
-Need some Rust knowladge
+Need some Rust knowledges
 
 We recommend starting from [Setting up the environment](https://cairo-lang.org/docs/quickstart.html).
 
